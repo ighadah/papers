@@ -1,4 +1,4 @@
-
+something new!
 Just created a branch, and then the second line is merged 
 Looks like no new title in this second branch
 

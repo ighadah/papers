@@ -1,7 +1,12 @@
+
 new after reset
 
 something new!
 Just created a branch, and then the second line is merged 
+
+changes after merge commit
+
+
 Looks like no new title in this second branch
 
 Ghadah Alghmadi 
